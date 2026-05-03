@@ -1,0 +1,13 @@
+{
+  "name": "trading212-portfolio",
+  "description": "Pull live Trading212 positions via Playwright and reconcile against your own portfolio records. Read-only by design.",
+  "version": "1.0.0",
+  "author": {
+    "name": "MrSucik",
+    "url": "https://github.com/MrSucik"
+  },
+  "homepage": "https://github.com/MrSucik/trading212-portfolio",
+  "repository": "https://github.com/MrSucik/trading212-portfolio",
+  "license": "MIT",
+  "keywords": ["trading212", "portfolio", "investing", "playwright", "browser-automation", "agent-skill"]
+}

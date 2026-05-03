@@ -1,0 +1,17 @@
+{
+  "name": "trading212-portfolio",
+  "owner": {
+    "name": "MrSucik",
+    "url": "https://github.com/MrSucik"
+  },
+  "plugins": [
+    {
+      "name": "trading212-portfolio",
+      "description": "Pull live Trading212 positions via Playwright MCP browser automation and reconcile against the user's own portfolio record system. Handles bot-detection, captcha handoff to user, currency normalization, and stale-cache edge cases. Read-only by design.",
+      "version": "1.0.0",
+      "source": "./plugins/trading212-portfolio",
+      "homepage": "https://github.com/MrSucik/trading212-portfolio",
+      "keywords": ["trading212", "portfolio", "investing", "playwright", "browser-automation", "agent-skill"]
+    }
+  ]
+}
