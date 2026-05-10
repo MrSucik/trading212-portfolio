@@ -57,6 +57,12 @@ Pin to a release tag:
 
 Or describe it: `"check my Trading212 portfolio"`, `"reconcile T212 against my records"`, `"pull my latest holdings"`.
 
+## Disclaimer
+
+**Not investment advice.** Past performance is not indicative of future returns. Investing carries risk of loss including loss of principal. The skill is read-only by design — it never places trades — but the data it surfaces is for informational reconciliation, not buy/sell decisions.
+
+**Trading212 Terms of Service.** Automated access may be restricted by Trading212's current TOS. This skill drives the standard browser interface (no API), and login + 2FA are handed back to the user every run. Check your account-class TOS before using.
+
 ## License
 
 MIT — see [LICENSE](./LICENSE).
